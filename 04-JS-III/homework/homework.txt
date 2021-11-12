@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir 
+rápidamente cualquier agujero en tu comprensión.
+
+1. Arrays: Son objetos llamados arreglos muy parecidos a una lista en los cuales se puede realizar 
+   hacer operaciones de recorrido con los datos ordenados por posiciones como si fueran los pisos de 
+   de un edificio y al igual podemos agregar o quitar los pisos.
