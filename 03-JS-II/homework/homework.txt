@@ -1,0 +1,20 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir 
+rápidamente cualquier agujero en tu comprensión.
+
+1. For: Cuando necesitamos realizar la misma tarea en varias ocaciones, podemos utilizar el bucle 
+   o ciclo For, ya que como su nombre lo indica, este repite la misma accion hasta que la condicion
+   especificada en el mismo se evalua como false.
+
+
+2. And: Es parte de los operadores logicos, se entiende como si fuera una Y, puede ser usado para agregar
+   mas dos condiciones que se tienen que cumplir. En javascript se representa con &&.
+
+
+3. Or: Es parte de los operadores logicos y nos ayuda a trabajar con valores boolenos para comprobar si
+   alguna de las condiciones dadas es verdadera. En javascript se representa con dos lineas 
+   verticales ||
+
+
+4. Not: Tambien es parte de los operadores logicos, convierte el valor al tipo booleanos y nos regresa
+   el valor contrario. En javascript se representa con un signo de exclamacion !
