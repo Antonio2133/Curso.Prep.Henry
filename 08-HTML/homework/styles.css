@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+h3 {
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  display: block;
+  margin: auto;
+  align-content: center;
+  justify-content: center;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: seagreen;
+  padding: 50px;
+  border: 5px solid black;
+  flex-direction: column;
+  align-items: center;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+span {
+  text-align: center;
+}
